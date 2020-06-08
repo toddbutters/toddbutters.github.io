@@ -1,10 +1,9 @@
----
-title: Todd Butters
----
+Todd Butters
+===
 
 ##### Support Specialist, Diligent Documenter, Avid Alliterator
 
-|		  |    |              |	   |			     |
+|		              |    |              |	   |			                   |
 |-----------------|----|--------------|----|-------------------------|
 | todd@butters.io | // | 404.594.2888 | // | [toddbutters.github.io] |
 
@@ -34,8 +33,6 @@ East Syracuse, NY // Nov 2015 - Present
 - Write _Python_ [scripts] leveraging the [CTERA SDK] as needed to accelerate admin tasks.
 - Manage cases and document customer environments and upgrades in _Salesforce_.
 - Manage escalations and report software bugs in _Jira_.
-
-\pagebreak
 
 ### [Google] - Fieldtech Resident
 
