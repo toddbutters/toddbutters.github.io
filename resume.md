@@ -5,23 +5,11 @@ Todd Butters
 
 |		              |    |              |	   |			                   |
 |-----------------|----|--------------|----|-------------------------|
-| todd@butters.io | // | 404.594.2888 | // | [toddbutters.github.io] |
-
-## Tech
-
-AWS, 
-CentOS, 
-Firefox,
-Git, 
-PostgreSQL, 
-PowerShell, 
-Python, 
-Ubuntu, 
-VMware 
+| todd@butters.io | // | 404.594.2888 | // | [todd.butters.io](https://todd.butters.io) |
 
 ## Work
 
-### [CTERA] - Technical Support
+### [CTERA] - Technical Support Engineer
 
 East Syracuse, NY // Nov 2015 - Present
 
@@ -30,7 +18,7 @@ East Syracuse, NY // Nov 2015 - Present
 - Support physical and virtual NAS appliances running _BusyBox_ Embedded Linux, and _SQLite_.
 - Support software on endpoints with a focus on Windows Server 2008 - 2016, Windows 10, and macOS.
 - Contributing nearly one hundred knowledge base, how-to, and tips and tricks articles in _Confluence_.
-- Write _Python_ [scripts] leveraging the [CTERA SDK] as needed to accelerate admin tasks.
+- Write [scripts] and maintain _Python_ [project] to accelerate admin and support tasks.
 - Manage cases and document customer environments and upgrades in _Salesforce_.
 - Manage escalations and report software bugs in _Jira_.
 
@@ -74,11 +62,12 @@ Concentration in Database Management and Networking
 
 2010 Associates in Computer Information Systems, 3.2/4.0 GPA
 
-[toddbutters.github.io]: https://toddbutters.github.io
+[toddbutters.gitlab.io]: https://toddbutters.github.io
 [CTERA]: https://www.ctera.com
 [Google]: https://buildyourfuture.withgoogle.com/programs/itrp/
 [RIT]: https://rit.edu
 [MVCC]: https://mvcc.edu
-[scripts]: https://github.com/toddatctera/chopin
+[scripts]: https://github.com/toddatctera/
+[project]: https://github.com/ctera/ctools
 [CTERA SDK]: https://github.com/ctera/ctera-python-sdk
-[Sovena]: https://www.sovenagroup.com/en/
+[Sovena]: https://www.sovenagroup.com/en/
